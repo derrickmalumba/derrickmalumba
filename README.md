@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 I'm Derrick, an Electronics and Electrical Engineering Student at SKKU, particularly interested in AI and Robotics
 
 - 🔭 I’m currently working on Autonomous Vehicle School Project
