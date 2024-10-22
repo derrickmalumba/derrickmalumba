@@ -3,8 +3,8 @@
 I'm Derrick, an Electronics and Electrical Engineering Student at SKKU, particularly interested in AI and Robotics
 
 - 🔭 I’m currently working on Autonomous Vehicle School Project
-- 🌱 I’m currently learning AI in Robotics, particularly Perception in Robotics
-- 👯 I’m looking to collaborate on AI Robotics related projects
+- 🌱 I’m currently learning AI in Robotics, particularly Perception in Autonomous Vehicles and Robots
+- 👯 I’m looking to collaborate on AI Perception-related projects
 - 💬 Ask me about AI and ML
 - 📫 How to reach me: Twitter: _m_derrick
 - 😄 Pronouns: He/Him
